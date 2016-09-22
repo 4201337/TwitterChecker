@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# ---------------------
+
 # Twitter username availablity checker.
 # Coded by @4201337
 # https://github.com/4201337
