@@ -1,3 +1,1 @@
 # TwitterChecker
-
-## Usage
